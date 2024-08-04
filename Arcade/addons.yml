@@ -1,0 +1,5 @@
+addon-repository:
+  LobbyScoreboard:
+    name: LobbyScoreboard
+    author: Fr33styler
+    version: 1.0
