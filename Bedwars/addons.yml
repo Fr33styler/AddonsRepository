@@ -3,3 +3,7 @@ addon-repository:
     name: XpBar
     author: Fr33styler
     version: 1.01
+  LobbyScoreboard:
+    name: LobbyScoreboard
+    author: Fr33styler
+    version: 1.0
