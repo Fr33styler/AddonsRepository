@@ -11,3 +11,7 @@ addon-repository:
     name: ResetScaleOnJoin
     author: Fr33styler
     version: 1.01
+  RevokePetOnJoin:
+    name: RevokePetOnJoin
+    author: Fr33styler
+    version: 1.0
