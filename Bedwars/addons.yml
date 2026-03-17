@@ -7,3 +7,7 @@ addon-repository:
     name: LobbyScoreboard
     author: Fr33styler
     version: 1.02
+  NoWeather:
+    name: NoWeather
+    author: Fr33styler
+    version: 1.0
