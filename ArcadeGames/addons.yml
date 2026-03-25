@@ -2,7 +2,7 @@ addon-repository:
   LobbyScoreboard:
     name: LobbyScoreboard
     author: Fr33styler
-    version: 1.02
+    version: 1.03
   StartMessage:
     name: StartMessage
     author: Rafael Auler
