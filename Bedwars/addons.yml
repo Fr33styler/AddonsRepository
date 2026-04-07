@@ -7,6 +7,10 @@ addon-repository:
     name: LobbyScoreboard
     author: Fr33styler
     version: 1.03
+  StartMessage:
+    name: StartMessage
+    author: 'Fr33styler, Rafael Auler'
+    version: 1.0
   NoWeather:
     name: NoWeather
     author: Fr33styler
