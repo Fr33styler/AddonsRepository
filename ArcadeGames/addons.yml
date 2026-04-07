@@ -5,8 +5,8 @@ addon-repository:
     version: 1.03
   StartMessage:
     name: StartMessage
-    author: Rafael Auler
-    version: 1.01
+    author: "Fr33styler, Rafael Auler"
+    version: 1.02
   ResetScaleOnJoin:
     name: ResetScaleOnJoin
     author: Fr33styler
