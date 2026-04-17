@@ -15,3 +15,11 @@ addon-repository:
     name: RevokePetOnJoin
     author: Fr33styler
     version: 1.0
+  HideFromLobbyOnJoin:
+    name: HideFromLobbyOnJoin
+    author: Fr33styler
+    version: 1.0
+  NoWeather:
+    name: NoWeather
+    author: Fr33styler
+    version: 1.0

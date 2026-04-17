@@ -19,3 +19,11 @@ addon-repository:
     name: HideFromLobbyOnJoin
     author: Fr33styler
     version: 1.0
+  ResetScaleOnJoin:
+    name: ResetScaleOnJoin
+    author: Fr33styler
+    version: 1.0
+  RevokePetOnJoin:
+    name: RevokePetOnJoin
+    author: Fr33styler
+    version: 1.0
