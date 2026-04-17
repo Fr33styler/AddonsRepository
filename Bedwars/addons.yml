@@ -15,7 +15,7 @@ addon-repository:
     name: NoWeather
     author: Fr33styler
     version: 1.0
-  HideFromLobbyOnJoinAddon:
-    name: HideFromLobbyOnJoinAddon
+  HideFromLobbyOnJoin:
+    name: HideFromLobbyOnJoin
     author: Fr33styler
     version: 1.0
