@@ -10,7 +10,7 @@ addon-repository:
   StartMessage:
     name: StartMessage
     author: 'Fr33styler, Rafael Auler'
-    version: 1.0
+    version: 1.0.1
   NoWeather:
     name: NoWeather
     author: Fr33styler
